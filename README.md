@@ -6,3 +6,5 @@
 
 #### 3) LevelOrderZigZagO(1): Complete the function to print spiral order traversal of a tree.O(1).
 
+#### 4) mirrorRecursive: Given a Binary Tree, convert it into its mirror.
+
