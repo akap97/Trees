@@ -10,3 +10,5 @@
 
 #### 5) mirrorIterative: Given a binary Tree, convert it into its mirror.
 
+#### 6) NoSibling: Given a Binary Tree of size N, such that all nodes have distinct values, print all the nodes which don't have a sibling node in sorted order. If all nodes have a sibling node then print -1 .
+
