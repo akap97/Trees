@@ -16,3 +16,5 @@
 
 #### 8) haspathSum: Given a Binary Tree and a sum s, your task is to check whether there is a root to leaf path in that tree with the following sum . You are required to complete the function hasPathSum. You should not read any input from stdin/console. There are multiple test cases. For each test case, this method will be called individually.
 
+#### 9) treeFromPreorderInorder: Given 2 Arrays of Inorder and preorder traversal. Construct a tree and print the Postorder traversal. 
+
